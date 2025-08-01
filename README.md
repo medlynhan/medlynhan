@@ -25,5 +25,5 @@
 ![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)
 
 ## 📊 GitHub Stats:
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=medlynhan&show_icons=true&hide_title=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=madelinehandoyo&show_icons=true&hide_title=true)
