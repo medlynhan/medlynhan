@@ -1,7 +1,7 @@
 
 <h1 align="center">hello, i'm madeline 👋</h1>
 
-<h3 align="center">A developer who enjoys creating beautiful, unique, and innovative software solutions.</h3>
+<h3 align="center">a developer who learns with intention and builds with empathy.</h3>
 
 - 🌱 I’m currently learning **software development**
 - 📫 How to reach me **midiline30@gmail.com**
