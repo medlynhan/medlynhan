@@ -4,7 +4,8 @@
 <h3 align="center">a developer who learns with purpose and creates with creativity</h3>
 
 - 🌱 I’m currently learning **software development**
-- 📫 How to reach me **midiline30@gmail.com**
+- 💻 Passionate about frontend for building the visual side of web apps
+- 🎨 Fun fact: I love working on custom illustration projects in my free time!
 
 ---
 
@@ -15,6 +16,9 @@
   </a>
   <a href="https://instagram.com/madelinehan_" target="blank">
     <img align="center" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:midiline30@gmail.com" target="blank">
+    <img align="center" src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" alt="Email" />
   </a>
 </p>
 
